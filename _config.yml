@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Asimov Collection Info
+longtitle:        Asimov Collection Info
+author:           Martin De Luca
+email:            martindeluca95[AT]gmail[DOT].com
 description: >
-  Build Jekyll site with the GitBook style.
+  a simple static website to gather all the info about collecting asimov books
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://hammond95.github.io'
+baseurl:          '/asimov'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
