@@ -5,12 +5,10 @@ date: 2022-08-25
 category: Jekyll
 layout: post
 ---
-
-```markdown
-<div class="table-wrapper" markdown="block">
-
 Qui di seguito la lista dei libri della collana di Asimov di Oscar Bestsellers.
 Questa lista è stata stilata a partire da quelle presenti nei libri.
+
+<div class="table-wrapper" markdown="block">
 
 Titolo|ISBN-13|Ciclo della Fondazione|Ciclo degli Spaziali|Ciclo dei Robot|Ciclo dell'Impero|Ciclo di Lucky Starr|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -65,4 +63,3 @@ Lucky Starr e gli oceani di Venere|9788804404392|||||3|
 Lucky Starr e le lune di Giove|9788804432487|||||5|
 
 </div>
-```
