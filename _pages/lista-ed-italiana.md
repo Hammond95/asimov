@@ -12,23 +12,23 @@ Questa lista è stata stilata a partire da quelle presenti nei libri.
 
 Titolo|ISBN-13|Ciclo della Fondazione|Ciclo degli Spaziali|Ciclo dei Robot|Ciclo dell'Impero|Ciclo di Lucky Starr|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-<a href="{{site.baseurl}}/#">A perdita d'occhio</a>|9788804409397||||||
-<a href="{{site.baseurl}}/9788804403043">Abissi d'acciaio</a>|9788804403043||1|3|||
-<a href="{{site.baseurl}}/#">Azazel</a>|9788804404378||||||
-<a href="{{site.baseurl}}/#">Civiltà Extraterrestri</a>|?||||||
-<a href="{{site.baseurl}}/9788804395942">Cronache della Galassia (o Prima Fondazione)</a>|9788804395942|0|||||
-<a href="{{site.baseurl}}/#">Destinazione Cervello</a>|9788804395959||||||
-<a href="{{site.baseurl}}/#">Domani!</a>|||||||
-<a href="{{site.baseurl}}/9788804418054">Fondazione anno zero</a>|9788804418054|-1|||||
-<a href="{{site.baseurl}}/9788804403029">Fondazione e Terra</a>|9788804403029|4|||||
-<a href="{{site.baseurl}}/#">Frontiere</a>|||||||
-<a href="{{site.baseurl}}/#">Grande come l'universo</a>|||||||
-<a href="{{site.baseurl}}/9788804403036">I robot dell'alba</a>|9788804403036||3|5|||
-<a href="{{site.baseurl}}/9788804411505">I robot e l'impero</a>|9788804411505||4|6|||
-<a href="{{site.baseurl}}/9788804520733">Il ciclo delle fondazioni</a>|9788804520733|0,1,2,3|||||
-<a href="{{site.baseurl}}/#">Il club dei vedovi neri</a>|9788804402916||||||
-<a href="{{site.baseurl}}/#">Il collasso dell'universo</a>|||||||
-<a href="{{site.baseurl}}/9788804403012">Il crollo della galassia centrale (o Fondazione e Impero)</a>|9788804403012|1|||||
+<a href="{{site.url}}{{site.baseurl}}/#">A perdita d'occhio</a>|9788804409397||||||
+<a href="{{site.url}}{{site.baseurl}}/9788804403043">Abissi d'acciaio</a>|9788804403043||1|3|||
+<a href="{{site.url}}{{site.baseurl}}/#">Azazel</a>|9788804404378||||||
+<a href="{{site.url}}{{site.baseurl}}/#">Civiltà Extraterrestri</a>|?||||||
+<a href="{{site.url}}{{site.baseurl}}/9788804395942">Cronache della Galassia (o Prima Fondazione)</a>|9788804395942|0|||||
+<a href="{{site.url}}{{site.baseurl}}/#">Destinazione Cervello</a>|9788804395959||||||
+<a href="{{site.url}}{{site.baseurl}}/#">Domani!</a>|||||||
+<a href="{{site.url}}{{site.baseurl}}/9788804418054">Fondazione anno zero</a>|9788804418054|-1|||||
+<a href="{{site.url}}{{site.baseurl}}/9788804403029">Fondazione e Terra</a>|9788804403029|4|||||
+<a href="{{site.url}}{{site.baseurl}}/#">Frontiere</a>|||||||
+<a href="{{site.url}}{{site.baseurl}}/#">Grande come l'universo</a>|||||||
+<a href="{{site.url}}{{site.baseurl}}/9788804403036">I robot dell'alba</a>|9788804403036||3|5|||
+<a href="{{site.url}}{{site.baseurl}}/9788804411505">I robot e l'impero</a>|9788804411505||4|6|||
+<a href="{{site.url}}{{site.baseurl}}/9788804520733">Il ciclo delle fondazioni</a>|9788804520733|0,1,2,3|||||
+<a href="{{site.url}}{{site.baseurl}}/#">Il club dei vedovi neri</a>|9788804402916||||||
+<a href="{{site.url}}{{site.baseurl}}/#">Il collasso dell'universo</a>|||||||
+<a href="{{site.url}}{{site.baseurl}}/9788804403012">Il crollo della galassia centrale (o Fondazione e Impero)</a>|9788804403012|1|||||
 Il libro di biologia|9788804404743||||||
 Il libro di fisica|9788804414452||||||
 Il meglio di Asimov|9788804398615||5 (racconto Immagine Speculare)||||
