@@ -1,7 +1,7 @@
 ---
 title: Lista Libri (Editione Italiana, Mondadori Oscar Bestsellers)
 author: Hammond95
-date: 2022-08-25
+date: 2022-08-27
 category: Jekyll
 layout: post
 ---
