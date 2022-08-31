@@ -29,17 +29,17 @@ Titolo|ISBN-13|Ciclo della Fondazione|Ciclo degli Spaziali|Ciclo dei Robot|Ciclo
 <a href="{{site.url}}{{site.baseurl}}/#">Il club dei vedovi neri</a>|9788804402916||||||
 <a href="{{site.url}}{{site.baseurl}}/#">Il collasso dell'universo</a>|||||||
 <a href="{{site.url}}{{site.baseurl}}/9788804403012">Il crollo della galassia centrale (o Fondazione e Impero)</a>|9788804403012|1|||||
-Il libro di biologia|9788804404743||||||
-Il libro di fisica|9788804414452||||||
-Il meglio di Asimov|9788804398615||5 (racconto Immagine Speculare)||||
-Il secondo libro dei robot|9788804536772||||||
-Il sole nudo|9788804398172||2|4|||
-Il tiranno dei mondi|9788804395966||||1||
-Il vagabondo delle scienze|||||||
-In principio|||||||
-Io, Robot|9788804519522|||1|||
-L'altra faccia della spirale (o Seconda Fondazione)|9788804406822|2|||||
-L'orlo della Fondazione|9788804398165|3|||||
+<a href="{{site.url}}{{site.baseurl}}/9788804404743">Il libro di biologia</a>|9788804404743||||||
+<a href="{{site.url}}{{site.baseurl}}/9788804414452">Il libro di fisica</a>|9788804414452||||||
+<a href="{{site.url}}{{site.baseurl}}/9788804398615">Il meglio di Asimov</a>|9788804398615||5 (racconto Immagine Speculare)||||
+<a href="{{site.url}}{{site.baseurl}}/9788804536772">Il secondo libro dei robot</a>|9788804536772||||||
+<a href="{{site.url}}{{site.baseurl}}/9788804398172">Il sole nudo</a>|9788804398172||2|4|||
+<a href="{{site.url}}{{site.baseurl}}/9788804395966">Il tiranno dei mondi</a>|9788804395966||||1||
+<a href="{{site.url}}{{site.baseurl}}/#">Il vagabondo delle scienze</a>|||||||
+<a href="{{site.url}}{{site.baseurl}}/#">In principio</a>|||||||
+<a href="{{site.url}}{{site.baseurl}}/9788804519522">Io, Robot</a>|9788804519522|||1|||
+<a href="{{site.url}}{{site.baseurl}}/9788804406822">L'altra faccia della spirale (o Seconda Fondazione)</a>|9788804406822|2|||||
+<a href="{{site.url}}{{site.baseurl}}/9788804398165">L'orlo della Fondazione</a>|9788804398165|3|||||
 L'universo invisibile|||||||
 La fine dell'eternità|9788804414513||||||
 Le correnti dello spazio|9788804406853||||2||
