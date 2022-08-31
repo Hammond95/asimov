@@ -53,7 +53,7 @@ Trilogia della Fondazione|||||||
 Tutti i racconti - Volume Primo Parte Prima|9788804394365||||||
 Tutti i racconti - Volume Primo Parte Seconda|9788804400127||||||
 Tutti i racconti - Volume Secondo Parte Prima|9788804407409||||||
-Tutti i racconti - Volume Secondo Parte Prima|9788804407591||||||
+Tutti i racconti - Volume Secondo Parte Seconda|9788804407591||||||
 Viaggio allucinante|9788804376569||||||
 Lucky Starr e gli Anelli di Saturno|9788804398189|||||6|
 Lucky Starr e il grande sole di Mercurio|9788804404675|||||4|
